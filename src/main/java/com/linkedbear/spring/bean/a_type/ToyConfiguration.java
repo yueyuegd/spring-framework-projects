@@ -18,8 +18,8 @@ public class ToyConfiguration {
         return toyFactoryBean;
     }
 
-    @Bean
+    /*@Bean
     public Toy ball() {
         return new Ball("ball");
-    }
+    }*/
 }
