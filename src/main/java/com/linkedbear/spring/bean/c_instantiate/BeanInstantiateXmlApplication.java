@@ -10,6 +10,6 @@ public class BeanInstantiateXmlApplication {
         applicationContext.getBeansOfType(Car.class).forEach((k,v) -> {
             System.out.println("name: " + k + ":" + v);
         });
-        System.out.println(applicationContext.getBean(CarStaticFactory.class));
+        //System.out.println(applicationContext.getBean(CarStaticFactory.class));
     }
 }
