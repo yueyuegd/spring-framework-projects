@@ -6,3 +6,14 @@
 /.idea/misc.xml
 /.idea/uiDesigner.xml
 /.idea/vcs.xml
+/.idea/libraries/Maven__javax_servlet_javax_servlet_api_3_1_0.xml
+/.idea/libraries/Maven__org_springframework_spring_aop_5_2_8_RELEASE.xml
+/.idea/libraries/Maven__org_springframework_spring_beans_5_2_8_RELEASE.xml
+/.idea/libraries/Maven__org_springframework_spring_context_5_2_8_RELEASE.xml
+/.idea/libraries/Maven__org_springframework_spring_core_5_2_8_RELEASE.xml
+/.idea/libraries/Maven__org_springframework_spring_expression_5_2_8_RELEASE.xml
+/.idea/libraries/Maven__org_springframework_spring_jcl_5_2_8_RELEASE.xml
+/.idea/modules.xml
+/spring-framework-projects.iml
+/.idea/artifacts/spring_framework_projects_war.xml
+/.idea/artifacts/spring_framework_projects_war_exploded.xml
