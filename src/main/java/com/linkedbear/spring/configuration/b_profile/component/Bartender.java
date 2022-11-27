@@ -1,4 +1,4 @@
-package com.linkedbear.spring.configuration.a_module;
+package com.linkedbear.spring.configuration.b_profile.component;
 
 public class Bartender {
 

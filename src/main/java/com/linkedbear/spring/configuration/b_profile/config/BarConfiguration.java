@@ -1,5 +1,6 @@
-package com.linkedbear.spring.configuration.a_module;
+package com.linkedbear.spring.configuration.b_profile.config;
 
+import com.linkedbear.spring.configuration.a_module.component.Bar;
 import org.springframework.context.annotation.Bean;
 import org.springframework.context.annotation.Configuration;
 

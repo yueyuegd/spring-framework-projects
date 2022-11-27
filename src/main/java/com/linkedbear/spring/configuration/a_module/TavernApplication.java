@@ -1,8 +1,8 @@
 package com.linkedbear.spring.configuration.a_module;
 
+import com.linkedbear.spring.configuration.a_module.config.TavernConfiguration;
 import org.springframework.context.annotation.AnnotationConfigApplicationContext;
 
-import java.util.Map;
 import java.util.stream.Stream;
 
 public class TavernApplication {
