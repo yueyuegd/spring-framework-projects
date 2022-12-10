@@ -1,0 +1,2 @@
+com.linkedbear.spring.configuration.e_enablejdbc.config.EnableJdbc=/
+com.linkedbear.spring.configuration.e_enablejdbc.config.MysqlJdbcConfiguration
