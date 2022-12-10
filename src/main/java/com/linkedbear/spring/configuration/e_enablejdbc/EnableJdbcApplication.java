@@ -8,7 +8,7 @@ import org.springframework.context.annotation.PropertySource;
 
 @Configuration
 @EnableJdbc
-@PropertySource("enablejdbc/jdbc.properties")
+@PropertySource("classpath:enablejdbc/jdbc.properties")
 public class EnableJdbcApplication {
     public static void main(String[] args) {
         AnnotationConfigApplicationContext applicationContext = new AnnotationConfigApplicationContext(
