@@ -6,9 +6,8 @@ import org.springframework.context.support.ClassPathXmlApplicationContext;
 
 public class LifecycleSourceXmlApplication {
     public static void main(String[] args) {
-        ClassPathXmlApplicationContext applicationContext = new ClassPathXmlApplicationContext(
-                "lifecycle/bean-source.xml"
-        );
+        ClassPathXmlApplicationContext applicationContext = new ClassPathXmlApplicationContext();
+        applicationContext.setConfigLocation("lifecycle/bean-source.xml");
         System.out.println("================准备刷新IOC容器==================");
         applicationContext.refresh();
         System.out.println("================IOC容器刷新完毕==================");
